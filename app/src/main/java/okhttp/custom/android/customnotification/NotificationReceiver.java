@@ -53,7 +53,7 @@ public class NotificationReceiver extends BroadcastReceiver {
 //        mRemoteViews.setTextViewText(R.id.tv_now_tmp, now_tmp);
 //        mRemoteViews.setTextViewText(R.id.tv_now, now_range);
 //        mRemoteViews.setTextViewText(R.id.tv_state, now_state);
-        mRemoteViews.setTextViewText(R.id.tv_city, "Beijing");
+        mRemoteViews.setTextViewText(R.id.tv_city, "北京");
 //
         mRemoteViews.setImageViewResource(R.id.iv_state, R.drawable.w2);
 
